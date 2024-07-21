@@ -1,0 +1,43 @@
+form{
+  max-width: 500px;
+  margin: 100px auto;
+  padding: 40px 100px;
+  border-radius: 15px;
+  background:rgb(233, 233, 250);
+  text-align: center;
+  align-items: center;
+
+ 
+ 
+ 
+}
+#botao1{
+  border-radius: 15px;
+  color: white;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 150px;
+  height: 40px;
+
+ 
+  
+}
+#botao2{
+  border-radius: 15px;
+  color: white;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 200px;
+  height: 40px;
+
+  
+}
+
+#bot{
+  text-align: center;
+}
+.form-group{
+  padding-bottom: 15px;
+}
